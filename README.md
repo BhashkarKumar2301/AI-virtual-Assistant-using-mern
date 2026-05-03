@@ -59,7 +59,7 @@ AI-Virtual-Assistant-Using-MERN/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Virtual-Assistant-Using-MERN.git
+git clone https://github.com/BhashkarKumar2301/AI-virtual-Assistant-using-mern.git
 cd AI-Virtual-Assistant-Using-MERN
 ```
 
@@ -129,9 +129,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-*Add your project screenshots here*
+### Signup Page
+![Signup Page](./Signup.png)
 
----
+### Assistant Interface
+![Assistant Interface](./assistantimage.png)
 
 ## 🤝 Contributing
 
